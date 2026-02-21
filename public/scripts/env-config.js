@@ -14,5 +14,5 @@
  * (which reads from .env), so local changes here have no effect during dev.
  */
 window.__ENV__ = {
-    BASE_URL: 'https://luminaoem.vercel.app/'
+    BASE_URL: 'https://luminaoems.onrender.com'
 };
